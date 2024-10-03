@@ -12,6 +12,11 @@ wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/
 sudo sh cuda_12.6.2_560.35.03_linux.run
 ```
 to confirm installation <br>
+Run<br>
+```bash
+  nvcc --version
+  nvidia-smi
+```
 <br>
 <br>
 **Basic Linux Commands you should know:**<br>
