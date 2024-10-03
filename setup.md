@@ -6,8 +6,8 @@
 **_cuda setup Example (run in Ubuntu)_**: <br>
 <br>
 ```bash
-wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run
-sudo sh cuda_12.6.2_560.35.03_linux.run
+  wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run
+  sudo sh cuda_12.6.2_560.35.03_linux.run
 ```
 <br>
 run nvcc --version, nvidia-smi to confirm installation <br>
