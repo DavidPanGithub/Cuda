@@ -3,11 +3,11 @@
 **-   gcc compiler** in Ubuntu <br>
 **-   cuda** setup(https://developer.nvidia.com/cuda-downloads) WSL-Ubuntu <br>
 
-Example: <br>
+**_cuda setup Example (run in Ubuntu)_**: <br>
 <br>
     ```
-    wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run <br>
-    sudo sh cuda_12.6.2_560.35.03_linux.run <br>
+    wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run 
+    sudo sh cuda_12.6.2_560.35.03_linux.run 
     ```
     <br>
 run nvcc --version, nvidia-smi to confirm installation <br>
