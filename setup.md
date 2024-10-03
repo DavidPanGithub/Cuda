@@ -1,10 +1,9 @@
 ## What You Need Before Starting
 
-![CUDA Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCUDA&psig=AOvVaw1dR_wPijs0FHouu8XlmhPq&ust=1728057543299000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCt05PK8ogDFQAAAAAdAAAAABAE)
 
-**- Ubuntu**  
-**- GCC compiler** in Ubuntu  
-**- CUDA setup** (https://developer.nvidia.com/cuda-downloads) for WSL-Ubuntu  
+**--     Ubuntu**  
+**--     GCC compiler** in Ubuntu  
+**--     CUDA setup** (https://developer.nvidia.com/cuda-downloads) for WSL-Ubuntu  
 
 **_CUDA Setup Example (run in Ubuntu):_**  
 
