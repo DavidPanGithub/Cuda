@@ -1,23 +1,16 @@
-## What you need before starting  <br>
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCUDA&psig=AOvVaw1dR_wPijs0FHouu8XlmhPq&ust=1728057543299000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCt05PK8ogDFQAAAAAdAAAAABAE)
-**-   Ubuntu** <br>
+## What You Need Before Starting
 
-**-   gcc compiler** in Ubuntu <br>
+![CUDA Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCUDA&psig=AOvVaw1dR_wPijs0FHouu8XlmhPq&ust=1728057543299000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCt05PK8ogDFQAAAAAdAAAAABAE)
 
-**-   cuda** setup(https://developer.nvidia.com/cuda-downloads) WSL-Ubuntu <br>
+**- Ubuntu**  
+**- GCC compiler** in Ubuntu  
+**- CUDA setup** (https://developer.nvidia.com/cuda-downloads) for WSL-Ubuntu  
 
-**_cuda setup Example (run in Ubuntu)_**: <br>
-<br>
+**_CUDA Setup Example (run in Ubuntu):_**  
+
 ```bash
-  wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run
-  sudo sh cuda_12.6.2_560.35.03_linux.run
-```
-<br>
-run
-```bash
-  nvcc --version
-  nvidia-smi
-```
+wget https://developer.download.nvidia.com/compute/cuda/12.6.2/local_installers/cuda_12.6.2_560.35.03_linux.run
+sudo sh cuda_12.6.2_560.35.03_linux.run
 to confirm installation <br>
 <br>
 <br>
